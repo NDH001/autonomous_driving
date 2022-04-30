@@ -1,0 +1,11 @@
+tiles:
+- [floor  , floor       , floor     , floor     , floor         , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor  ]
+- [floor  , curve_left/W, straight/W, straight/W, straight/W    , straight/W    , straight/W    , straight/W    , straight/W    , straight/W    , straight/W, curve_left/N  , floor  ]
+- [floor  , straight/S  , floor     , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor     , straight/N    , floor  ]
+- [floor  , straight/S  , floor     , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor     , straight/N    , floor  ]
+- [floor  , straight/S  , floor     , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor     , straight/N    , floor  ]
+- [floor  , straight/S  , floor     , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor     , straight/N    , floor  ]
+- [floor  , straight/S  , floor     , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor     , straight/N    , floor  ]
+- [floor  , straight/S  , floor     , floor     , floor         , floor         , floor         , floor         , floor         , curve_right/N , straight/E, curve_left/E  , floor  ]
+- [floor  , curve_left/S, straight/E, straight/W, straight/W    , straight/W    , straight/W    , straight/W    , straight/W    , curve_left/E  , floor     , floor         , floor  ]
+- [floor  , floor       , floor     , floor     , floor         , floor         , floor         , floor         , floor         , floor         , floor     , floor         , floor  ]
